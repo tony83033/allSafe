@@ -20,7 +20,7 @@ export function HeroSection() {
           </div>
   
           <p className="text-xl md:text-2xl font-medium text-gray-700 mb-10">
-            Join India's Most Trusted Cyber Security Academy
+            Join Indias Most Trusted Cyber Security Academy
           </p>
   
           <h3 className="text-3xl md:text-4xl font-bold text-[#1A1E2C] mt-12">What You Want To Learn?</h3>

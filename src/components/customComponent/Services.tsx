@@ -1,7 +1,7 @@
 import { Card } from "@/components/ui/card";
 import { 
   Monitor, 
-  Users, 
+
   Award, 
   User, 
   Shield, 
